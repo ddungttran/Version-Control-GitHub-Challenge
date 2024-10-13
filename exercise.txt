@@ -1,0 +1,7 @@
+1. Terminal is a window where you can communicate and interact with your computer using text. You can run programs, nagviate files and dictories and a lot more.
+2. Git is a version control tool that you install locally on your computer to keep track of your source history, while GitHub is a hosting service that lets you create, share, and manage your Git repositories.
+3. 
+- Navigate to the repository that you want to fork
+- On the top-right corner of the page, click on Fork
+- After that, you will be moved into a new window to create a new fork. By default, forks are named the same as their upstream repository
+- Last step create fork.
